@@ -16,8 +16,8 @@ This Java program implements a console-based Checkers game, allowing players to 
 
 ### Usage:
 + Click on the jar file in the .out directory to start the game
-Follow the prompts to enter your moves and compete against another player locally.
-Enjoy the classic game of Checkers and test your strategic skills against a friend or family member!
++ Follow the prompts to enter your moves and compete against another player locally.
++ Enjoy the classic game of Checkers and test your strategic skills against a friend or family member!
 
 ### Note:
 + This console-based Checkers game provides a simple yet engaging way to play the traditional board game without the need for physical pieces or a graphical interface.
