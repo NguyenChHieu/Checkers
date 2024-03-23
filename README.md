@@ -1,8 +1,8 @@
 # Checkers 
-Checkers is a simple Java game intergrated with processing library Graphics.
+Checkers is a simple Java game integrated with processing library Graphics.
 
 ## Overview:
-This Java program implements a console-based Checkers game, allowing players to compete against each other locally. The game follows standard Checkers rules and provides a simple text-based interface for gameplay.
+This Java program implements Checkers, allowing players to compete against each other locally. The game follows standard Checkers rules and provides a simple GUI interface for gameplay.
 
 ## Game Rules:
 + Checkers is a two-player strategy board game played on an 8x8 grid.
