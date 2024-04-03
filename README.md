@@ -1,6 +1,8 @@
 # Checkers 
 Checkers is a simple Java game integrated with processing library Graphics.
 
+<img width="573" alt="checkers" src="https://github.com/NguyenChHieu/Checkers/assets/140675996/12b99001-5b32-47f9-9ef3-0148b29195eb">
+
 ## Overview:
 This Java program implements Checkers, allowing players to compete against each other locally. The game follows standard Checkers rules and provides a simple GUI interface for gameplay.
 
