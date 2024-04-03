@@ -1,5 +1,5 @@
 # Checkers 
-Checkers is a simple Java game integrated with processing library Graphics.
+Checkers is a simple Java game integrated with **processing** library Graphics.
 
 <img width="577" alt="checkers" src="https://github.com/NguyenChHieu/Checkers/assets/140675996/9b51126f-e795-494d-b6bb-342613cab360">
 
